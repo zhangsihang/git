@@ -1,12 +1,13 @@
-1.git init  //³õÊ¼»¯±¾µØgit²Ö¿â
-2.git add <file>  //Ìí¼ÓÎÄ¼ş
-3.git status  // ²é¿´ ×´Ì¬
-4.git commit -m "ËµÃ÷"  //Ìá½»
-5.git push //ÍÆËÍµ½²Ö¿â
-6.git pull  //´ÓÔ¶³Ì²Ö¿âÀ­È¡Êı¾İ
-7.git clone  //´ÓÔ¶³Ì²Ö¿â¿½±´Êı¾İ
-8 git rm --cached <file>  //É¾³ıÎÄ¼ş
+1.git init  //åˆå§‹åŒ–æœ¬åœ°gitä»“åº“
+2.git add <file>  //æ·»åŠ æ–‡ä»¶
+3.git status  // æŸ¥çœ‹ çŠ¶æ€
+4.git commit -m "è¯´æ˜"  //æäº¤
+5.git push //æ¨é€åˆ°ä»“åº“
+6.git pull  //ä»è¿œç¨‹ä»“åº“æ‹‰å–æ•°æ®
+7.git clone  //ä»è¿œç¨‹ä»“åº“æ‹·è´æ•°æ®
+8 git rm --cached <file>  //åˆ é™¤æ–‡ä»¶
 
 9.git remote add origin https://github.com/zhangsihang/git.git
 10.git push -u origin master
 11.git remote
+12
